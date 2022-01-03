@@ -8,6 +8,8 @@ lançamento do Telescópio Espacial James Webb.
 ### Preview
 ![](assets/imgs/preview.jpg)
 
+![](assets/imgs/examples.jpg)
+
 ### Tecnologias usadas
 * HTML
 * CSS
