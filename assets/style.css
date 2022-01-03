@@ -77,7 +77,6 @@ body {
 .navbar {
     gap: 30px;
     display: flex;
-    padding-right: 15px;
 }
 
     .navbar-link {
@@ -122,8 +121,8 @@ body {
     justify-content: flex-end;
     z-index: -1;
     width: 500px;
-    height: 900px;
-    margin-top: -200px;
+    height: 840px;
+    margin-top: -250px;
     border-radius: 0 0 8px 8px;
     padding: 200px 20px 0 20px;
     box-shadow: 4px 4px 20px var(--black-two);
